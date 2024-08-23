@@ -1,8 +1,7 @@
 # Install Pytorch and necessary dependencies.
 pip install -r requirements.txt
 
-# Download the large language models from Hugging Face and specify the model path using the llm_ckp_dir parameter in scripts.
-
+# Download the large language models from Hugging Face
 LLaMA2-7B
 LLaMA3-8B
 
